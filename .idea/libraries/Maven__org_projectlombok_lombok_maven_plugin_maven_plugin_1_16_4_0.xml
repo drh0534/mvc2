@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.projectlombok:lombok-maven-plugin:maven-plugin:1.16.4.0">
+    <CLASSES>
+      <root url="jar://E:/TDDOWNLOAD/JAVA/Repository/org/projectlombok/lombok-maven-plugin/1.16.4.0/lombok-maven-plugin-1.16.4.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://E:/TDDOWNLOAD/JAVA/Repository/org/projectlombok/lombok-maven-plugin/1.16.4.0/lombok-maven-plugin-1.16.4.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://E:/TDDOWNLOAD/JAVA/Repository/org/projectlombok/lombok-maven-plugin/1.16.4.0/lombok-maven-plugin-1.16.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
